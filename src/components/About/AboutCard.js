@@ -8,13 +8,9 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Soumyajit Behera </span>
-            from <span className="purple"> Bhubaneswar, India.</span>
-            <br />
-            I am currently employed as a software developer at Juspay.
-            <br />
-            I have completed Integrated MSc (IMSc) in Maths and Computing at BIT
-            Mesra.
+            Hi, I’m <span className="purple">Baies Aziz</span>, a Full Stack Software Developer specializing in frontend development with React, JavaScript, HTML, and CSS. 
+            I hold a Software Engineering Certificate from Coding Temple. 
+            With experience in Python, Flask, and SQL, I’m passionate about creating user-focused, scalable solutions and continuously improving my skills.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
@@ -34,7 +30,7 @@ function AboutCard() {
           <p style={{ color: "rgb(155 126 172)" }}>
             "Strive to build things that make a difference!"{" "}
           </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
+          <footer className="blockquote-footer">Baies Aziz</footer>
         </blockquote>
       </Card.Body>
     </Card>
