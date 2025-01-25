@@ -24,6 +24,6 @@ yarn-debug.log*
 yarn-error.log*
 
 .eslintcache
-sf
+
 Server/node_modules
 Server/config.js
